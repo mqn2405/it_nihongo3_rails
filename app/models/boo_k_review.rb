@@ -1,0 +1,2 @@
+class BooKReview < ApplicationRecord
+end
